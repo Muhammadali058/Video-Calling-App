@@ -10,13 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Guftgo">
         <activity
+            android:name=".Activities.DashboardActivity"
+            android:exported="true" />
+        <activity
             android:name=".Activities.SignupActivity"
             android:exported="true"
-            android:theme="@style/Theme.VideoCallApplication.NoActonBar"/>
+            android:theme="@style/Theme.VideoCallApplication.NoActonBar" />
         <activity
             android:name=".Activities.LoginActivity"
             android:exported="true"
-            android:theme="@style/Theme.VideoCallApplication.NoActonBar"/>
+            android:theme="@style/Theme.VideoCallApplication.NoActonBar" />
         <activity
             android:name=".Activities.MainActivity"
             android:exported="true"
