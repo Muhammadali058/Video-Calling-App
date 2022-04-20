@@ -86,7 +86,7 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="10dp"
                 android:background="@drawable/button_style_2"
-                android:text="Create an account"
+                android:text="Create"
                 app:backgroundTint="@null" />
 
             <Button

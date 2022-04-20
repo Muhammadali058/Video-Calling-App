@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1022860837075-n1fkgpaq2n2hp4v5vvfo45ltc20qn8l8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guftgo",
+            "certificate_hash": "cc5e602c5ab7dba71417a5cdf9c65d5d75743e09"
+          }
+        },
+        {
           "client_id": "1022860837075-epoen3jaam23uv66u0i4g6l1at6o60hi.apps.googleusercontent.com",
           "client_type": 3
         }
